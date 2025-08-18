@@ -1,3 +1,7 @@
+
+<img width="3087" height="1391" alt="Logo_Orange-2" src="https://github.com/user-attachments/assets/95400b01-27ca-4f3e-99bb-d8c84e2abc3a" />
+
+
 # Xelerit 🚀  
 *The intelligence layer for Industry 4.0 automation.*
 
