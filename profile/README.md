@@ -5,12 +5,12 @@
   The intelligence layer for Industry 4.0 automation.
 </div>
 
-------
 
-<blockquote style="text-align:center; font-size:1.2em; font-style:italic; margin:20px; padding:20px; border-left:4px solid #4CAF50; background:#f9f9f9;">
+
+<blockquote style="text-align:center; font-size:1.2em; font-style:italic; margin:100px; padding:20px; border-left:4px solid #4CAF50; background:#f9f9f9;">
   At Xelerit, we are building the future of factories automation where <b>AI agents configure, program, and validate industrial automation code</b>.
 </blockquote>
----
+
 
 ## The Problem Today
 
