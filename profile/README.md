@@ -6,10 +6,8 @@
 </div>
 
 
----
 
-## Vision
-At Xelerit, we are building the future of factories automation where **AI agents configure, program, and validate industrial automation code**. 
+> At Xelerit, we are building the future of factories automation where **AI agents configure, program, and validate industrial automation code**.
 
 ---
 
