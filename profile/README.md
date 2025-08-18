@@ -8,18 +8,16 @@
 
 ---
 
-## 🌍 Vision
-
-Factories that **program themselves**.  
-At Xelerit, we are building the **Agentic Development Environment (ADE)** where **AI agents configure, program, and validate industrial automation systems** — making production as adaptive as human intent.  
+## Vision
+At Xelerit, we are building the future of factories automation where **AI agents configure, program, and validate industrial automation code**. 
 
 ---
 
-## 🛠️ The Problem Today
+## The Problem Today
 
 - **Fragmentation**: Every OEM has its own platform, language, and lock-in.  
 - **Error-prone workflows**: Manual coding & testing cause costly downtime.  
-- **High barriers**: Full automation is only accessible to corporations with budgets > CHF 500k.  
+- **High barriers**: Full automation is only accessible to corporations with high budgets.  
 
 Manufacturers are stuck with outdated processes while hardware is commoditizing. Integration, not hardware, is now the **true bottleneck**.
 
