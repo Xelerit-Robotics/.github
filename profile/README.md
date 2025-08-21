@@ -68,7 +68,7 @@ Xelerit ADE is a **unified, AI-driven platform** that transforms integration int
 
 We’re opening access to **engineers, integrators, and manufacturers** who want to shape the future of automation.  
 
-👉 [Join our Slack](#)  
+👉 [Join our Slack](#https://join.slack.com/t/xelerit-robotics/shared_invite/zt-3bu5mhaau-PnUPklHcHZ4kfPPUIkQK9w)  
 👉 [Apply for Beta Access](#)  
 
 ---
